@@ -1,1 +1,9 @@
-{project-name}
+= {project-name}
+Daniel Grycman <https://github.com/danielgrycman>
+:project-name: asciidoctor-impressjs
+:uri-asciidoctor: http://asciidoctor.org
+:uri-impressjs: http://impress.github.io/impress.js/
+
+A template-based converter for {uri-asciidocotor}[Asciidoctor] that produces the HTML component of a {uri-impressjs}[Impress.js] presentation from an AsciiDoc source file.
+
+== Overview
